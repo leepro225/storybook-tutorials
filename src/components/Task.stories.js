@@ -14,7 +14,7 @@ export const Default = Template.bind({});
 Default.args = {
   task: {
     id: '1',
-    title: 'Test Task22',
+    title: 'Test Task2442',
     state: 'TASK_INBOX',
     updatedAt: new Date(2021, 0, 1, 9, 0),
   },
